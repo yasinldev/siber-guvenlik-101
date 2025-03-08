@@ -129,7 +129,7 @@ a) 1234:5678:9ABC:DEF0:1234:5678:9ABC:DEF0
 
 b) 1999:6:13:0:0:1962:2:15
 
-![ipv6](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ipv6_address_leading_zeros.svg/1024px-Ipv6_address_leading_zeros.svg.png)
+![ipv6](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ipv6_address_leading_zeros.svg/1024px-Ipv6_address_leading_zeros.svg)
 
 Network ID, adresin hangi network'e ait olduğunu tanımlarken, Host ID, network içerisindeki belirli bir cihazı temsil eder. Bu ayrımı yapmak için Subnet Mask kullanılır. Subnet Mask, IP adresinin hangi bitlerinin Network ID, hangilerinin Host ID olduğunu belirler. Örneğin, 255.255.255.0 Subnet Mask'ı, IP adresinin ilk 24 bitini yani üç Octet'ini Network ID olarak tanımlar ve geri kalan 8 bit Host ID olarak kalır.
 
