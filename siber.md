@@ -45,7 +45,7 @@ Açık Sistemler Ara Bağlantısı (OSI) modeli, ağ iletişimi işlevlerini yed
 
 OSI katmanlarının amacı herbir görevi bir üst katmana servis sağlamaktır. İki bilgisayar arasındaki iletişimde katmanlar sırasıyla iletişim kurar, eş düzeydeki katmanlar arasında doğrudan iletişim kurulmaz ancak aralarında sanal bir iletişim ağı oluşturulabilir. Aşağıdaki görselde her bir katmana ve katmanlara özgü saldırı yöntemlerine yer verilmiştir. Bu konuya tekrardan geleceğiz lakin öncelikle temel kavramları bitirmemiz gerekiyor.
 
-![osi_model](https://www.stackscale.com/wp-content/uploads/2023/04/OSI-model-layers-attacks-Stackscale.jpg.avif)
+![osi_model](https://www.stackscale.com/wp-content/uploads/2023/04/OSI-model-layers-attacks-Stackscale.jpg)
 
 ### OSI Katmanları
 
